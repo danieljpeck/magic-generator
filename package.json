@@ -1,0 +1,19 @@
+{
+  "name": "magic-generator",
+  "version": "1.0.0",
+  "description": "Magic: The Gathering ML",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieljpeck/magic-generator.git"
+  },
+  "author": "Daniel Peck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieljpeck/magic-generator/issues"
+  },
+  "homepage": "https://github.com/danieljpeck/magic-generator#readme"
+}
